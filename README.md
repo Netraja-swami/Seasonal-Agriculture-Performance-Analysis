@@ -24,4 +24,4 @@ A comprehensive data analysis project examining agricultural performance across 
 - 49% of all farms are running at a loss — systemic issue
 
 ## 👤 Author
-Adarsh Kumar | BBDU Lucknow | VOIS AICTE Batch1 2026-27
+Netraja | BBDU Lucknow | VOIS AICTE Batch1 2026-27
